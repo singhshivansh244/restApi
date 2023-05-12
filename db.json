@@ -6,7 +6,7 @@
         "lastName": "doe",
         "id": 1,
         "role": "front-end developer",
-        "status": "active",
+        "status": "active"
     },
     {
         "email": "andrew@gmail.com",
@@ -14,23 +14,23 @@
         "lastName": "johns",
         "id": 2,
         "role": "blockchain developer",
-        "status": "invited",
+        "status": "invited"
     },
     {
-        "email": "shyam@gmail.com",
-        "firstName": "shyam",
-        "lastName": "ji",
+        "email": "phoenixbaker@gmail.com",
+        "firstName": "phoenix",
+        "lastName": "baker",
         "id": 3,
-        "role": "back-end developer",
-        "status": "active",
+        "role": "Admin",
+        "status": "active"
     },
     {
-        "email": "Riya@gmail.com",
-        "firstName": "Riya",
-        "lastName": "verma",
+        "email": "lanasteiner@gmail.com",
+        "firstName": "lana",
+        "lastName": "steiner",
         "id": 4,
-        "role": "front-end developer",
-        "status": "invited",
+        "role": "Sales Leader",
+        "status": "invited"
     },
     {
         "email": "anita@gmail.com",
@@ -38,7 +38,7 @@
         "lastName": "doe",
         "id": 5,
         "role": "back-end developer",
-        "status": "active",
+        "status": "active"
     },
     {
         "email": "demo@gmail.com",
