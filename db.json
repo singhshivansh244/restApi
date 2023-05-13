@@ -10,8 +10,8 @@
       "img": 1
     },
     {
-      "firstName": "phoenix",
-      "lastName": "baker",
+      "firstName": "Phoenix",
+      "lastName": "Baker",
       "role": "Software Engineer",
       "status": "Active",
       "email": "phoenixbaker@gmail.com",
@@ -19,8 +19,8 @@
       "img": 2
     },
     {
-      "firstName": "lana",
-      "lastName": "steiner",
+      "firstName": "Lana",
+      "lastName": "Steiner",
       "role": "Sales Leader",
       "status": "Invited",
       "email": "lanasteiner@gmail.com",
@@ -28,8 +28,8 @@
       "img": 3
     },
     {
-      "firstName": "candice",
-      "lastName": "wu",
+      "firstName": "Candice",
+      "lastName": "Wu",
       "role": "Sales Leader",
       "status": "Invited",
       "email": "candicewu@gmail.com",
@@ -37,8 +37,8 @@
       "img": 4
     },
     {
-      "firstName": "natali",
-      "lastName": "craig",
+      "firstName": "Natali",
+      "lastName": "Craig",
       "role": "Sales Rep",
       "status": "Active",
       "email": "natalicraig@gmail.com",
@@ -46,7 +46,7 @@
       "img": 1
     },
     {
-      "firstName": "drew",
+      "firstName": "Drew",
       "lastName": "Cano",
       "role": "Software Engineer",
       "status": "Active",
@@ -56,7 +56,7 @@
     },
     {
       "firstName": "Orlando",
-      "lastName": "diggs",
+      "lastName": "Diggs",
       "role": "Sales Rep",
       "status": "Active",
       "email": "Orlandodiggs@gmail.com",
