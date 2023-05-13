@@ -1,3 +1,68 @@
 {
-  "users": []
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "Admin",
+      "status": "Active",
+      "email": "johndoe@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 1
+    },
+    {
+      "firstName": "phoenix",
+      "lastName": "baker",
+      "role": "Software Engineer",
+      "status": "Active",
+      "email": "phoenixbaker@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 2
+    },
+    {
+      "firstName": "lana",
+      "lastName": "steiner",
+      "role": "Sales Leader",
+      "status": "Invited",
+      "email": "lanasteiner@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 3
+    },
+    {
+      "firstName": "candice",
+      "lastName": "wu",
+      "role": "Sales Leader",
+      "status": "Invited",
+      "email": "candicewu@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 4
+    },
+    {
+      "firstName": "natali",
+      "lastName": "craig",
+      "role": "Sales Rep",
+      "status": "Active",
+      "email": "natalicraig@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 1
+    },
+    {
+      "firstName": "drew",
+      "lastName": "Cano",
+      "role": "Software Engineer",
+      "status": "Active",
+      "email": "drewCano@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 3
+    },
+    {
+      "firstName": "Orlando",
+      "lastName": "diggs",
+      "role": "Sales Rep",
+      "status": "Active",
+      "email": "Orlandodiggs@gmail.com",
+      "id": "c4df80ca-d618-490c-aa2e-a56e4a470a6f",
+      "img": 2
+    },
+    
+  ]
 }
